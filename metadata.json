@@ -1,0 +1,6 @@
+{
+  "name": "EtymoScan",
+  "description": "Ein interaktiver Assistent zur etymologischen und soziolinguistischen Analyse von Fremd- und Lehnwörtern im Deutschen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
